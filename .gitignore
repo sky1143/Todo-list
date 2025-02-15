@@ -1,0 +1,17 @@
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+coverage/
+debug.log
+debug.log.*
+.vscode/
+.idea/
+.nyc_output/
+*.sqlite
+*.sqlite3
+*.bak
+*.tmp
+*solution.js
